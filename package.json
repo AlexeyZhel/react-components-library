@@ -1,6 +1,6 @@
 {
   "name": "react-components-library",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "repository": {
@@ -10,9 +10,8 @@
   "license": "MIT",
   "types": "dist/index.d.ts",
   "devDependencies": {
-    "@types/react": "^16.8.25",
-    "@types/react-dom": "^16.8.5",
-    "@types/styled-components": "^4.1.18",
+    "@types/react": "^16.11.0",
+    "@types/react-dom": "^16.11.0",
     "@typescript-eslint/eslint-plugin": "^2.0.0",
     "@typescript-eslint/parser": "^2.0.0",
     "concurrently": "^4.1.1",
